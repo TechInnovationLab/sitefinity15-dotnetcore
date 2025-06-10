@@ -1,0 +1,23 @@
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+**/bin/
+**/obj/
+packages/
+
+# Visual Studio cache
+.vscode/
+.vs/
+
+# Sitefinity logs
+**/App_Data/Sitefinity/Logs/
+
+# Others
+*.log
+*.tmp
+*.cache
+*.DS_Store
